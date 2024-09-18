@@ -58,10 +58,7 @@ Deployment on Cloud: Deploy the application on platforms like Heroku or AWS for 
 
 Feel free to fork this project and submit pull requests. Contributions are welcome to improve the model, optimize the code, or enhance the user interface.
 
-**License**
 
-
-This project is licensed under the MIT License.
 
 
 
